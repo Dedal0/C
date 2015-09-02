@@ -1,2 +1,2 @@
 # C
-C Language
+Some C Language exercises I made in University.
